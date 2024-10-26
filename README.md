@@ -1,7 +1,7 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
 
 ## Desafio de projeto
-Criar um sistema de hospedagem em uma hotelaria que faça o gerenciamento de reserva, quantidades de hospedes,calcular o valor da diária e conceder desconto. Neste desafio utilizei conhecimentos de Classes,Propriedades,Metodos,Exceções e outros na linguagem C#.  
+Criar um sistema de hospedagem em uma hotelaria que faça o gerenciamento de reserva, quantidades de hospedes,calcular o valor da diária e conceder desconto.
 
 ## Regras e validações
 1. Não deve ser possível realizar uma reserva de uma suíte com capacidade menor do que a quantidade de hóspedes.
@@ -10,5 +10,11 @@ Criar um sistema de hospedagem em uma hotelaria que faça o gerenciamento de res
 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
-## Ferramenta utilizada 
-- C# 
+## Linguagem e conhecimentos utilizados
+- C#
+- Classes
+- Propriedades
+- Metodos
+- Exceções
+
+
